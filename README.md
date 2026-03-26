@@ -24,6 +24,12 @@ Deep dive into Amazon product data and consumer behavior.
 #### 🛒 Sales Metrics Dashboard
 Visualization of key performance indicators (KPIs) and retail metrics.
 
+
 ### 2. Excel Analytics & Statistical Modeling
-* **Road Accident Data Analysis:** Statistical report analyzing factors contributing to road accidents.
-* **IMDB Dataset Analysis:** Data visualization and statistical modeling of movie ratings and trends.
+
+#### 🚗 Road Accident Data Analysis
+Statistical report analyzing factors contributing to road accidents.
+![Road Accident Dashboard](Road-Accident-Analysis/image.png)
+
+#### 🎬 IMDB Dataset Analysis
+Data visualization and statistical modeling of movie ratings and trends.
